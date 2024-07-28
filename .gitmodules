@@ -1,9 +1,6 @@
 [submodule "Taikomochi"]
 	path = Taikomochi
 	url = https://github.com/Amvoled/Taikomochi
-[submodule "BBBalatro"]
-	path = BBBalatro
-	url = https://github.com/BBBalatroMod/BBBalatro/
 [submodule "Bird-Jokers"]
 	path = Bird-Jokers
 	url = https://github.com/JustinBanzon/Bird-Jokers
