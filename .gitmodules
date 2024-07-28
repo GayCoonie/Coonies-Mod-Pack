@@ -4,3 +4,7 @@
 [submodule "Bird-Jokers"]
 	path = Bird-Jokers
 	url = https://github.com/JustinBanzon/Bird-Jokers
+[submodule "BBBalatro"]
+	path = BBBalatro
+	url = https://github.com/BBBalatroMod/BBBalatro.git
+	branch = commit/9dce0b5
