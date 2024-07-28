@@ -7,3 +7,30 @@
 [submodule "BBBalatro"]
 	path = BBBalatro
 	url = https://github.com/BBBalatroMod/BBBalatro.git
+[submodule "Bunco"]
+	path = Bunco
+	url = https://github.com/Firch/Bunco
+[submodule "CheesyJokers"]
+	path = CheesyJokers
+	url = https://github.com/ilikecheese0/CheesyJokers
+[submodule "DebugPlus"]
+	path = DebugPlus
+	url = https://github.com/WilsontheWolf/DebugPlus
+[submodule "FloundersJokers"]
+	path = FloundersJokers
+	url = https://github.com/Flounderlul/FloundersJokers
+[submodule "JankJonklers"]
+	path = JankJonklers
+	url = https://github.com/spikeof2010/JankJonklers
+[submodule "JokerSellValue"]
+	path = JokerSellValue
+	url = https://github.com/OppositeWolf770/JokerSellValue
+[submodule "kcvanilla"]
+	path = kcvanilla
+	url = https://github.com/kcgidw/kcvanilla
+[submodule "Loop"]
+	path = Loop
+	url = https://github.com/jenwalter666/Loop
+[submodule "MikasBalatro"]
+	path = MikasBalatro
+	url = https://github.com/Dimserene/MikasBalatro
