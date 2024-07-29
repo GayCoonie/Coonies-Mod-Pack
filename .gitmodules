@@ -34,3 +34,18 @@
 [submodule "MikasBalatro"]
 	path = MikasBalatro
 	url = https://github.com/Dimserene/MikasBalatro
+[submodule "MoreFluff"]
+	path = MoreFluff
+	url = https://github.com/notmario/MoreFluff
+[submodule "MoreJokerPacks"]
+	path = MoreJokerPacks
+	url = https://github.com/Samario1/MoreJokerPacks
+[submodule "MystBlinds"]
+	path = MystBlinds
+	url = https://github.com/Mysthaps/MystBlinds
+[submodule "MystesOpenJokers"]
+	path = MystesOpenJokers
+	url = https://github.com/CelestialBoon/MystesOpenJokers
+[submodule "Nopeus"]
+	path = Nopeus
+	url = https://github.com/jenwalter666/Nopeus
