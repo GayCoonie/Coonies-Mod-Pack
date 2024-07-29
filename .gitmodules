@@ -53,3 +53,6 @@
 	path = Ortalab-DEMO
 	url = https://github.com/GauntletGames-2086/Ortalab-DEMO/
 	branch = test
+[submodule "SDM0-s-Stuff"]
+	path = SDM0-s-Stuff
+	url = https://github.com/Dimserene/SDM0-s-Stuff
