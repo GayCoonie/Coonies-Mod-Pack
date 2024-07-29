@@ -74,3 +74,6 @@
 [submodule "Virtues"]
 	path = Virtues
 	url = https://github.com/someone23832/Virtues
+[submodule "Bettma-Mods"]
+	path = Bettma-Mods
+	url = https://github.com/GayCoonie/Betmma-Mods
