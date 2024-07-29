@@ -1,79 +1,79 @@
 [submodule "Taikomochi"]
-	path = Taikomochi
+	path = Mods/Taikomochi
 	url = https://github.com/Amvoled/Taikomochi
 [submodule "Bird-Jokers"]
-	path = Bird-Jokers
+	path = Mods/Bird-Jokers
 	url = https://github.com/JustinBanzon/Bird-Jokers
 [submodule "BBBalatro"]
-	path = BBBalatro
+	path = Mods/BBBalatro
 	url = https://github.com/BBBalatroMod/BBBalatro.git
 [submodule "Bunco"]
-	path = Bunco
+	path = Mods/Bunco
 	url = https://github.com/Firch/Bunco
 [submodule "CheesyJokers"]
-	path = CheesyJokers
+	path = Mods/CheesyJokers
 	url = https://github.com/ilikecheese0/CheesyJokers
 [submodule "DebugPlus"]
-	path = DebugPlus
+	path = Mods/DebugPlus
 	url = https://github.com/Dimserene/DebugPlus/
 [submodule "FloundersJokers"]
-	path = FloundersJokers
+	path = Mods/FloundersJokers
 	url = https://github.com/Flounderlul/FloundersJokers
 [submodule "JankJonklers"]
-	path = JankJonklers
+	path = Mods/JankJonklers
 	url = https://github.com/spikeof2010/JankJonklers
 [submodule "JokerSellValue"]
-	path = JokerSellValue
+	path = Mods/JokerSellValue
 	url = https://github.com/OppositeWolf770/JokerSellValue
 [submodule "kcvanilla"]
-	path = kcvanilla
+	path = Mods/kcvanilla
 	url = https://github.com/kcgidw/kcvanilla
 [submodule "Loop"]
-	path = Loop
+	path = Mods/Loop
 	url = https://github.com/jenwalter666/Loop
 [submodule "MikasBalatro"]
-	path = MikasBalatro
+	path = Mods/MikasBalatro
 	url = https://github.com/Dimserene/MikasBalatro
 [submodule "MoreFluff"]
-	path = MoreFluff
+	path = Mods/MoreFluff
 	url = https://github.com/notmario/MoreFluff
 [submodule "MoreJokerPacks"]
-	path = MoreJokerPacks
+	path = Mods/MoreJokerPacks
 	url = https://github.com/Samario1/MoreJokerPacks
 [submodule "MystBlinds"]
-	path = MystBlinds
+	path = Mods/MystBlinds
 	url = https://github.com/GayCoonie/MystBlinds/
 [submodule "MystesOpenJokers"]
-	path = MystesOpenJokers
+	path = Mods/MystesOpenJokers
 	url = https://github.com/CelestialBoon/MystesOpenJokers
 [submodule "Nopeus"]
-	path = Nopeus
+	path = Mods/Nopeus
 	url = https://github.com/jenwalter666/Nopeus
 [submodule "Ortalab-DEMO"]
-	path = Ortalab-DEMO
+	path = Mods/Ortalab-DEMO
 	url = https://github.com/GauntletGames-2086/Ortalab-DEMO/
 	branch = test
 [submodule "SDM0-s-Stuff"]
-	path = SDM0-s-Stuff
+	path = Mods/SDM0-s-Stuff
 	url = https://github.com/Dimserene/SDM0-s-Stuff
 [submodule "Steamodded"]
-	path = Steamodded
+	path = Mods/Steamodded
 	url = https://github.com/Steamopollys/Steamodded
 [submodule "SpicyJokers"]
-	path = SpicyJokers
+	path = Mods/SpicyJokers
 	url = https://github.com/RitchieDimaria/SpicyJokers
 [submodule "The-World-Ends-With-Jimbo"]
-	path = The-World-Ends-With-Jimbo
+	path = Mods/The-World-Ends-With-Jimbo
 	url = https://github.com/parchmentEngineer/The-World-Ends-With-Jimbo
 [submodule "TheTrickster"]
-	path = TheTrickster
+	path = Mods/TheTrickster
 	url = https://github.com/cerloCasa/TheTrickster
 [submodule "VanillaExpansion"]
-	path = VanillaExpansion
+	path = Mods/VanillaExpansion
 	url = https://github.com/nekojoe/VanillaExpansion
 [submodule "Virtues"]
-	path = Virtues
+	path = Mods/Virtues
 	url = https://github.com/someone23832/Virtues
 [submodule "Bettma-Mods"]
-	path = Bettma-Mods
+	path = Mods/Bettma-Mods
 	url = https://github.com/GayCoonie/Betmma-Mods
