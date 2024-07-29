@@ -56,3 +56,21 @@
 [submodule "SDM0-s-Stuff"]
 	path = SDM0-s-Stuff
 	url = https://github.com/Dimserene/SDM0-s-Stuff
+[submodule "Steamodded"]
+	path = Steamodded
+	url = https://github.com/Steamopollys/Steamodded
+[submodule "SpicyJokers"]
+	path = SpicyJokers
+	url = https://github.com/RitchieDimaria/SpicyJokers
+[submodule "The-World-Ends-With-Jimbo"]
+	path = The-World-Ends-With-Jimbo
+	url = https://github.com/parchmentEngineer/The-World-Ends-With-Jimbo
+[submodule "TheTrickster"]
+	path = TheTrickster
+	url = https://github.com/cerloCasa/TheTrickster
+[submodule "VanillaExpansion"]
+	path = VanillaExpansion
+	url = https://github.com/nekojoe/VanillaExpansion
+[submodule "Virtues"]
+	path = Virtues
+	url = https://github.com/someone23832/Virtues
