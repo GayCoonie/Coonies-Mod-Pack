@@ -49,3 +49,7 @@
 [submodule "Nopeus"]
 	path = Nopeus
 	url = https://github.com/jenwalter666/Nopeus
+[submodule "Ortalab-DEMO"]
+	path = Ortalab-DEMO
+	url = https://github.com/GauntletGames-2086/Ortalab-DEMO/
+	branch = test
