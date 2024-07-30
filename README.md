@@ -38,7 +38,7 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - MystBlinds by [Mysthaps](https://github.com/Mysthaps) ([GitHub Repo](https://github.com/GayCoonie/MystBlinds))
 
-- MystesOpenJokers by [CelestialBoon](https://github.com/CelestialBoon) ([GitHub Repo](https://github.com/CelestialBoon/MystesOpenJokers))
+- MystesOpenJokers by [CelestialBoon](https://gigthub.com/CelestialBoon) ([GitHub Repo](https://github.com/CelestialBoon/MystesOpenJokers))
 
 - MystJokers by [Mysthaps](https://github.com/Mysthaps) ([GitHub Repo](https://github.com/Mysthaps/BalatroMods/))
 
