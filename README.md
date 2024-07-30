@@ -5,3 +5,53 @@ These are basically just the mods I personally play with. Sharing because it's a
 
 ## Included Mods:
 - BBBalatro by [BBBalatroMod](https://github.com/BBBalatroMod) ([GitHub Repo](https://github.com/BBBalatroMod/BBBalatro))
+
+- Betmma-Mods by [betmma](https://github.com/betmma/) ([GitHub Repo](https://github.com/GayCoonie/Betmma-Mods))
+
+- Bird-Jokers by [JustinBanzon](https://github.com/JustinBanzon) ([GitHub Repo](https://github.com/JustinBanzon/Bird-Jokers))
+
+- Bunco by [Firch](https://github.com/Firch) ([GitHub Repo](https://github.com/Firch/Bunco))
+
+- CheesyJokers by [ilikecheese0](https://github.com/ilikecheese0) ([GitHub Repo](https://github.com/ilikecheese0/CheesyJokers))
+
+- DebugPlus by [WilsontheWolf](https://github.com/WilsontheWolf) ([GitHub Repo](https://github.com/Dimserene/DebugPlus))
+
+- FloundersJokers by [Flounderlul](https://github.com/Flounderlul) ([GitHub Repo](https://github.com/Flounderlul/FloundersJokers))
+
+- JankJonklers by [spikeof2010](https://github.com/spikeof2010) ([GitHub Repo](https://github.com/spikeof2010/JankJonklers))
+
+- JokerSellValue by [OppositeWolf770](https://github.com/OppositeWolf770) ([GitHub Repo](https://github.com/OppositeWolf770/JokerSellValue))
+
+- Loop by [jenwalter666](https://github.com/jenwalter666) ([GitHub Repo](https://github.com/jenwalter666/Loop))
+
+- MikasBalatro by [MikaSchoenmakers](https://github.com/MikaSchoenmakers) ([GitHub Repo](https://github.com/Dimserene/MikasBalatro))
+
+- MoreFluff by [notmario](https://github.com/notmario) ([GitHub Repo](https://github.com/notmario/MoreFluff))
+
+- MoreJokerPacks by [Samario1](https://github.com/Samario1) ([GitHub Repo](https://github.com/Samario1/MoreJokerPacks))
+
+- MystBlinds by [Mysthaps](https://github.com/Mysthaps) ([GitHub Repo](https://github.com/GayCoonie/MystBlinds))
+
+- MystesOpenJokers by [CelestialBoon](https://github.com/CelestialBoon) ([GitHub Repo](https://github.com/CelestialBoon/MystesOpenJokers))
+
+- Nopeus by [jenwalter666](https://github.com/jenwalter666) ([GitHub Repo](https://github.com/jenwalter666/Nopeus))
+
+- Ortalab-DEMO by [GauntletGames-2086](https://github.com/GauntletGames-2086) ([GitHub Repo](https://github.com/GauntletGames-2086/Ortalab-DEMO))
+
+- SDM0-s-Stuff by [SDM0](https://github.com/SDM0) ([GitHub Repo](https://github.com/Dimserene/SDM0-s-Stuff))
+
+- SpicyJokers by [RitchieDimaria](https://github.com/RitchieDimaria) ([GitHub Repo](https://github.com/RitchieDimaria/SpicyJokers))
+
+- Steamodded by [Steamopollys](https://github.com/Steamopollys) ([GitHub Repo](https://github.com/Steamopollys/Steamodded))
+
+- Taikomochi by [Amvoled](https://github.com/Amvoled) ([GitHub Repo](https://github.com/Amvoled/Taikomochi))
+
+- The-World-Ends-With-Jimbo by [parchmentEngineer](https://github.com/parchmentEngineer) ([GitHub Repo](https://github.com/parchmentEngineer/The-World-Ends-With-Jimbo))
+
+- TheTrickster by [cerloCasa](https://github.com/cerloCasa) ([GitHub Repo](https://github.com/cerloCasa/TheTrickster))
+
+- VanillaExpansion by [nekojoe](https://github.com/nekojoe) ([GitHub Repo](https://github.com/nekojoe/VanillaExpansion))
+
+- Virtues by [someone23832](https://github.com/someone23832) ([GitHub Repo](https://github.com/someone23832/Virtues))
+
+- kcvanilla by [kcgidw](https://github.com/kcgidw) ([GitHub Repo](https://github.com/kcgidw/kcvanilla))
