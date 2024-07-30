@@ -53,9 +53,6 @@
 	path = Mods/Ortalab-DEMO
 	url = https://github.com/GauntletGames-2086/Ortalab-DEMO/
 	branch = test
-[submodule "SDM0-s-Stuff"]
-	path = Mods/SDM0-s-Stuff
-	url = https://github.com/Dimserene/SDM0-s-Stuff
 [submodule "Steamodded"]
 	path = Mods/Steamodded
 	url = https://github.com/Steamopollys/Steamodded
@@ -77,3 +74,7 @@
 [submodule "Bettma-Mods"]
 	path = Mods/Bettma-Mods
 	url = https://github.com/GayCoonie/Betmma-Mods
+[submodule "Mods/SDM0-s-Stuff"]
+	path = Mods/SDM0-s-Stuff
+	url = https://github.com/Dimserene/SDM0-s-Stuff
+	branch = smods_1.0.0
