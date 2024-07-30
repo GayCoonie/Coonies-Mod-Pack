@@ -74,3 +74,7 @@ Some of the mods included in this pack have modifications, which are listed belo
 - DebugPlus: Made the log pop-ups less in your face. Credit to this change goes to Dimserene and his fork.
 
 In addition, multiple mods use forks from Dimserene, name SDM-0's stuff, and Snow's Mods, simplly because they either don't have the files in the repository at all, or are not configured correctly to be included as a submodule like thi. No additional changes are made in those cases. I also always link the original repository in the readme.
+
+## Installatiom Instructions:
+If you already have a 'Mods' folder, simply replace or combine it with the one provided here. I won't be able to really help much if you're using mods that aren't included, but this also isn't intended to be forced as a standalone experience. Also make sure you don't end up with 2 copies of steammodded or any mod. Also make sure you've installed lovely.
+##
