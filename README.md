@@ -14,6 +14,8 @@ These are basically just the mods I personally play with. Sharing because it's a
 
 - CheesyJokers by [ilikecheese0](https://github.com/ilikecheese0) ([GitHub Repo](https://github.com/ilikecheese0/CheesyJokers))
 
+- Crimson's Ultimate Card Kollection by [XenoCHeart](https://github.com/XenoCHeart) ([GitHub Repo](https://github.com/XenoCHeart/Crimsons-Ultimate-Card-Collection))
+
 - DebugPlus by [WilsontheWolf](https://github.com/WilsontheWolf) ([GitHub Repo](https://github.com/Dimserene/DebugPlus))
 
 - FloundersJokers by [Flounderlul](https://github.com/Flounderlul) ([GitHub Repo](https://github.com/Flounderlul/FloundersJokers))
@@ -34,17 +36,23 @@ These are basically just the mods I personally play with. Sharing because it's a
 
 - MystesOpenJokers by [CelestialBoon](https://github.com/CelestialBoon) ([GitHub Repo](https://github.com/CelestialBoon/MystesOpenJokers))
 
+- MystJokers by [Mysthaps](https://github.com/Mysthaps) ([GitHub Repo](https://github.com/Mysthaps/BalatroMods/))
+
 - Nopeus by [jenwalter666](https://github.com/jenwalter666) ([GitHub Repo](https://github.com/jenwalter666/Nopeus))
 
 - Ortalab-DEMO by [GauntletGames-2086](https://github.com/GauntletGames-2086) ([GitHub Repo](https://github.com/GauntletGames-2086/Ortalab-DEMO))
 
 - SDM0-s-Stuff by [SDM0](https://github.com/SDM0) ([GitHub Repo](https://github.com/Dimserene/SDM0-s-Stuff))
 
+- Snow's Mods by [RattlingSnow353](https://github.com/RattlingSnow353) ([GitHub Repo](https://github.com/RattlingSnow353/Snow-s-Mods))
+
 - SpicyJokers by [RitchieDimaria](https://github.com/RitchieDimaria) ([GitHub Repo](https://github.com/RitchieDimaria/SpicyJokers))
 
 - Steamodded by [Steamopollys](https://github.com/Steamopollys) ([GitHub Repo](https://github.com/Steamopollys/Steamodded))
 
 - Taikomochi by [Amvoled](https://github.com/Amvoled) ([GitHub Repo](https://github.com/Amvoled/Taikomochi))
+
+- Tier 3 Vouchers Preview by [XenoCHeart](https://github.com/XenoCHeart) ([GitHub Repo](https://github.com/XenoCHeart/Crimsons-Ultimate-Card-Collection))
 
 - The-World-Ends-With-Jimbo by [parchmentEngineer](https://github.com/parchmentEngineer) ([GitHub Repo](https://github.com/parchmentEngineer/The-World-Ends-With-Jimbo))
 
