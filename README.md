@@ -32,6 +32,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - MikasBalatro by [MikaSchoenmakers](https://github.com/MikaSchoenmakers) ([GitHub Repo](https://github.com/Dimserene/MikasBalatro))
 
+- Modded-Only-Challenges by [SDM0](https://github.com/SDM0) ([GitHub Repo](https://github.com/SDM0/Modded-Only-Challenges))
+
 - MoreFluff by [notmario](https://github.com/notmario) ([GitHub Repo](https://github.com/notmario/MoreFluff))
 
 - MoreJokerPacks by [Samario1](https://github.com/Samario1) ([GitHub Repo](https://github.com/Samario1/MoreJokerPacks))
@@ -46,7 +48,7 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - Ortalab-DEMO by [GauntletGames-2086](https://github.com/GauntletGames-2086) ([GitHub Repo](https://github.com/GauntletGames-2086/Ortalab-DEMO))
 
-- SDM0-s-Stuff by [SDM0](https://github.com/SDM0) ([GitHub Repo](https://github.com/Dimserene/SDM0-s-Stuff))
+- SDM0-s-Stuff by [SDM0](https://github.com/SDM0) ([GitHub Repo](https://github.com/SDM0/SDM_0-s-Stuff))
 
 - Snow's Mods by [RattlingSnow353](https://github.com/RattlingSnow353) ([GitHub Repo](https://github.com/RattlingSnow353/Snow-s-Mods))
 
