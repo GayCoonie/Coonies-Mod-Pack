@@ -86,3 +86,6 @@
 [submodule "Mods/Modded-Only-Challenges"]
 	path = Mods/Modded-Only-Challenges
 	url = https://github.com/SDM0/Modded-Only-Challenges
+[submodule "Mods/Trance"]
+	path = Mods/Trance
+	url = https://github.com/MathIsFun0/Trance
