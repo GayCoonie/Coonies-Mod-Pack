@@ -74,13 +74,12 @@
 [submodule "Bettma-Mods"]
 	path = Mods/Bettma-Mods
 	url = https://github.com/GayCoonie/Betmma-Mods
-[submodule "Mods/SDM0-s-Stuff"]
-	path = Mods/SDM0-s-Stuff
-	url = https://github.com/Dimserene/SDM0-s-Stuff
-	branch = smods_1.0.0
 [submodule "SDM0-s-Stuff"]
 	url = https://github.com/SDM0/SDM_0-s-Stuff
 [submodule "./SDM0-s-Stuff"]
 	url = https://github.com/SDM0/SDM_0-s-Stuff
 [submodule "./Mods/SDM0-s-Stuff"]
+	url = https://github.com/SDM0/SDM_0-s-Stuff
+[submodule "Mods/SDM0-s-Stuff"]
+	path = Mods/SDM0-s-Stuff
 	url = https://github.com/SDM0/SDM_0-s-Stuff
