@@ -64,6 +64,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - TheTrickster by [cerloCasa](https://github.com/cerloCasa) ([GitHub Repo](https://github.com/cerloCasa/TheTrickster))
 
+- Trance by [MathIsFun0](https://github.com/MathIsFun0) ([GitHub Repo](https://github.com/MathIsFun0/Trance))
+ 
 - VanillaExpansion by [nekojoe](https://github.com/nekojoe) ([GitHub Repo](https://github.com/nekojoe/VanillaExpansion))
 
 - Virtues by [someone23832](https://github.com/someone23832) ([GitHub Repo](https://github.com/someone23832/Virtues))
