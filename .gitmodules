@@ -89,3 +89,6 @@
 [submodule "Mods/Trance"]
 	path = Mods/Trance
 	url = https://github.com/MathIsFun0/Trance
+[submodule "Mods/Paperback"]
+	path = Mods/Paperback
+	url = https://github.com/GitNether/paperback
