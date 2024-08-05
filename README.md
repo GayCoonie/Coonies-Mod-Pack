@@ -48,6 +48,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - Ortalab-DEMO by [GauntletGames-2086](https://github.com/GauntletGames-2086) ([GitHub Repo](https://github.com/GauntletGames-2086/Ortalab-DEMO))
 
+- Paperback by [GitNether](https://github.com/GitNether) ([GitHub Repo](https://github.com/GitNether/paperback))
+
 - SDM0-s-Stuff by [SDM0](https://github.com/SDM0) ([GitHub Repo](https://github.com/SDM0/SDM_0-s-Stuff))
 
 - Snow's Mods by [RattlingSnow353](https://github.com/RattlingSnow353) ([GitHub Repo](https://github.com/RattlingSnow353/Snow-s-Mods))
