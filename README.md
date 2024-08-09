@@ -22,6 +22,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - DebugPlus by [WilsontheWolf](https://github.com/WilsontheWolf) ([GitHub Repo](https://github.com/Dimserene/DebugPlus))
 
+- DeFused by [GayCoonie](https://github.com/GayCoonie) ([GitHub Repo](https://github.com/GayCoonie/DeFused))
+
 - FloundersJokers by [Flounderlul](https://github.com/Flounderlul) ([GitHub Repo](https://github.com/Flounderlul/FloundersJokers))
 
 - JankJonklers by [spikeof2010](https://github.com/spikeof2010) ([GitHub Repo](https://github.com/spikeof2010/JankJonklers))
