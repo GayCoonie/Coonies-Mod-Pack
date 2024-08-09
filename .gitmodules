@@ -28,9 +28,6 @@
 [submodule "kcvanilla"]
 	path = Mods/kcvanilla
 	url = https://github.com/kcgidw/kcvanilla
-[submodule "Loop"]
-	path = Mods/Loop
-	url = https://github.com/jenwalter666/Loop
 [submodule "MikasBalatro"]
 	path = Mods/MikasBalatro
 	url = https://github.com/Dimserene/MikasBalatro
@@ -46,9 +43,6 @@
 [submodule "MystesOpenJokers"]
 	path = Mods/MystesOpenJokers
 	url = https://github.com/CelestialBoon/MystesOpenJokers
-[submodule "Nopeus"]
-	path = Mods/Nopeus
-	url = https://github.com/jenwalter666/Nopeus
 [submodule "Ortalab-DEMO"]
 	path = Mods/Ortalab-DEMO
 	url = https://github.com/GauntletGames-2086/Ortalab-DEMO/
@@ -92,3 +86,6 @@
 [submodule "Mods/Paperback"]
 	path = Mods/Paperback
 	url = https://github.com/GitNether/paperback
+[submodule "Mods/Snow's Mods"]
+	path = Mods/Snow's Mods
+	url = https://github.com/RattlingSnow353/Snow-s-Mods
