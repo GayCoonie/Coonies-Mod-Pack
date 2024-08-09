@@ -89,3 +89,6 @@
 [submodule "Mods/Snow's Mods"]
 	path = Mods/Snow's Mods
 	url = https://github.com/RattlingSnow353/Snow-s-Mods
+[submodule "Mods/DeFused"]
+	path = Mods/DeFused
+	url = https://github.com/GayCoonie/DeFused
