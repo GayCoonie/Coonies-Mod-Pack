@@ -8,6 +8,8 @@ These are basically just the mods I personally play with. Sharing because it's a
 Some of the mods included in this pack have modifications, which are listed below. This is to keep them matching what I personally am playing with, as is kinda the silly gimmick of this modpack. Additionally, fair warning that not everything here is 100% stable, and I often run into crashes eventually in a run. Saing as this is what I personally play with, I'm always removing, adding, and updating mods to try to keep an enjoyable and stable experience. And from now on I will be updating this mod pack to reflect whatever changes I make to my own local setup.
 
 ## Included Mods:
+- Alices Annum by [ThreeCubed273](https://github.com/ThreeCubed273) ([GitHub Repo](https://github.com/ThreeCubed273/alices_annum_balatro_mod))
+
 - BBBalatro by [BBBalatroMod](https://github.com/BBBalatroMod) ([GitHub Repo](https://github.com/BBBalatroMod/BBBalatro))
 
 - Betmma-Mods by [betmma](https://github.com/betmma/) ([GitHub Repo](https://github.com/GayCoonie/Betmma-Mods))
