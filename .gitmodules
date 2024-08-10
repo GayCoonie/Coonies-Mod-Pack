@@ -92,3 +92,6 @@
 [submodule "Mods/DeFused"]
 	path = Mods/DeFused
 	url = https://github.com/GayCoonie/DeFused
+[submodule "Mods/alices_annum"]
+	path = Mods/alices_annum
+	url = https://github.com/ThreeCubed273/alices_annum_balatro_mod
