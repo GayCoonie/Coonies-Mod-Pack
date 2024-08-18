@@ -32,7 +32,7 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - JokerSellValue by [OppositeWolf770](https://github.com/OppositeWolf770) ([GitHub Repo](https://github.com/OppositeWolf770/JokerSellValue))
 
-- Loop by [jenwalter666](https://github.com/jenwalter666) ([GitHub Repo](https://github.com/jenwalter666/Loop))
+- Loop by [jenwalter666](https://github.com/jenwalter666) ([GitHub Repo](https://github.com/jenwalter666/JensBalatroCollection))
 
 - MikasBalatro by [MikaSchoenmakers](https://github.com/MikaSchoenmakers) ([GitHub Repo](https://github.com/Dimserene/MikasBalatro))
 
@@ -48,7 +48,7 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - MystJokers by [Mysthaps](https://github.com/Mysthaps) ([GitHub Repo](https://github.com/Mysthaps/BalatroMods/))
 
-- Nopeus by [jenwalter666](https://github.com/jenwalter666) ([GitHub Repo](https://github.com/jenwalter666/Nopeus))
+- Nopeus by [jenwalter666](https://github.com/jenwalter666) ([GitHub Repo](https://github.com/jenwalter666/JensBalatroCollection))
 
 - Ortalab-DEMO by [GauntletGames-2086](https://github.com/GauntletGames-2086) ([GitHub Repo](https://github.com/GauntletGames-2086/Ortalab-DEMO))
 
