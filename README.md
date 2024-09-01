@@ -10,6 +10,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 ## Included Mods:
 - Alices Annum by [ThreeCubed273](https://github.com/ThreeCubed273) ([GitHub Repo](https://github.com/ThreeCubed273/alices_annum_balatro_mod))
 
+- Balatro Jokers Plus by [KaviD-115](https://github.com/KaviD-115) ([GitHub Repo](https://github.com/KaviD-115/Balatro-Jokers-Plus))
+
 - BBBalatro by [BBBalatroMod](https://github.com/BBBalatroMod) ([GitHub Repo](https://github.com/BBBalatroMod/BBBalatro))
 
 - Betmma-Mods by [betmma](https://github.com/betmma/) ([GitHub Repo](https://github.com/GayCoonie/Betmma-Mods))
@@ -25,6 +27,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 - DebugPlus by [WilsontheWolf](https://github.com/WilsontheWolf) ([GitHub Repo](https://github.com/Dimserene/DebugPlus))
 
 - DeFused by [GayCoonie](https://github.com/GayCoonie) ([GitHub Repo](https://github.com/GayCoonie/DeFused))
+
+-Familiar by [RattlingSnow353](https://github.com/RattlingSnow353) ([GitHub Repo](https://github.com/RattlingSnow353/Familiar))
 
 - FloundersJokers by [Flounderlul](https://github.com/Flounderlul) ([GitHub Repo](https://github.com/Flounderlul/FloundersJokers))
 
