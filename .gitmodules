@@ -95,3 +95,9 @@
 [submodule "Mods/alices_annum"]
 	path = Mods/alices_annum
 	url = https://github.com/ThreeCubed273/alices_annum_balatro_mod
+[submodule "Mods/Familiar"]
+	path = Mods/Familiar
+	url = https://github.com/RattlingSnow353/Familiar
+[submodule "Mods/Balatro-Jokers-Plus"]
+	path = Mods/Balatro-Jokers-Plus
+	url = https://github.com/KaviD-115/Balatro-Jokers-Plus
