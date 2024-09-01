@@ -28,7 +28,7 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - DeFused by [GayCoonie](https://github.com/GayCoonie) ([GitHub Repo](https://github.com/GayCoonie/DeFused))
 
--Familiar by [RattlingSnow353](https://github.com/RattlingSnow353) ([GitHub Repo](https://github.com/RattlingSnow353/Familiar))
+- Familiar by [RattlingSnow353](https://github.com/RattlingSnow353) ([GitHub Repo](https://github.com/RattlingSnow353/Familiar))
 
 - FloundersJokers by [Flounderlul](https://github.com/Flounderlul) ([GitHub Repo](https://github.com/Flounderlul/FloundersJokers))
 
