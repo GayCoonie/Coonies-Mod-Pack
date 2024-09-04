@@ -107,3 +107,6 @@
 [submodule "Mods/Galdur"]
 	path = Mods/Galdur
 	url = https://github.com/Eremel/Galdur
+[submodule "Mods/Ceres"]
+	path = Mods/Ceres
+	url = https://github.com/GayCoonie/Ceres/
