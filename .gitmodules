@@ -101,3 +101,9 @@
 [submodule "Mods/Balatro-Jokers-Plus"]
 	path = Mods/Balatro-Jokers-Plus
 	url = https://github.com/KaviD-115/Balatro-Jokers-Plus
+[submodule "Mods/CardSleeves"]
+	path = Mods/CardSleeves
+	url = https://github.com/larswijn/CardSleeves
+[submodule "Mods/Galdur"]
+	path = Mods/Galdur
+	url = https://github.com/Eremel/Galdur
