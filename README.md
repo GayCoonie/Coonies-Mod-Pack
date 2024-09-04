@@ -20,6 +20,10 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - Bunco by [Firch](https://github.com/Firch) ([GitHub Repo](https://github.com/Firch/Bunco))
 
+- CardSleeves by [larswijn](https://github.com/larswijn) ([GitHub Repo](https://github.com/larswijn/CardSleeves))
+
+- Ceres by [nekojoe](https://github.com/nekojoe) ([GitHub Repo](https://github.com/nekojoe/Ceres))
+
 - CheesyJokers by [ilikecheese0](https://github.com/ilikecheese0) ([GitHub Repo](https://github.com/ilikecheese0/CheesyJokers))
 
 - Crimson's Ultimate Card Kollection by [XenoCHeart](https://github.com/XenoCHeart) ([GitHub Repo](https://github.com/XenoCHeart/Crimsons-Ultimate-Card-Collection))
@@ -31,6 +35,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 - Familiar by [RattlingSnow353](https://github.com/RattlingSnow353) ([GitHub Repo](https://github.com/RattlingSnow353/Familiar))
 
 - FloundersJokers by [Flounderlul](https://github.com/Flounderlul) ([GitHub Repo](https://github.com/Flounderlul/FloundersJokers))
+
+- Galdur by [Eremel](https://github.com/Eremel) ([GitHub Repo](https://github.com/Eremel/Galdur))
 
 - JankJonklers by [spikeof2010](https://github.com/spikeof2010) ([GitHub Repo](https://github.com/spikeof2010/JankJonklers))
 
