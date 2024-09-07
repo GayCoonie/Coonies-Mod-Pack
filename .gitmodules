@@ -110,3 +110,6 @@
 [submodule "Mods/Ceres"]
 	path = Mods/Ceres
 	url = https://github.com/GayCoonie/Ceres/
+[submodule "Mods/no-laughing-matter"]
+	path = Mods/no-laughing-matter
+	url = https://github.com/Minirebel/no-laughing-matter/
