@@ -58,6 +58,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - MystJokers by [Mysthaps](https://github.com/Mysthaps) ([GitHub Repo](https://github.com/Mysthaps/BalatroMods/))
 
+- No Laghing Matter by [Minirebel](https://github.com/Minirebel) and [Modlich_303](https://github.com/TM-yt) ([GitHub Repo](https://github.com/Minirebel/no-laughing-matter))
+
 - Nopeus by [jenwalter666](https://github.com/jenwalter666) ([GitHub Repo](https://github.com/jenwalter666/JensBalatroCollection))
 
 - Ortalab-DEMO by [GauntletGames-2086](https://github.com/GauntletGames-2086) ([GitHub Repo](https://github.com/GauntletGames-2086/Ortalab-DEMO))
