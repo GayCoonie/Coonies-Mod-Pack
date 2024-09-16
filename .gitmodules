@@ -110,3 +110,6 @@
 [submodule "Mods/no-laughing-matter"]
 	path = Mods/no-laughing-matter
 	url = https://github.com/Minirebel/no-laughing-matter/
+[submodule "Mods/snoresville_turbulent_jokers"]
+	path = Mods/snoresville_turbulent_jokers
+	url = https://github.com/Snoresville/snoresville_turbulent_jokers
