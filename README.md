@@ -70,6 +70,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - Snow's Mods by [RattlingSnow353](https://github.com/RattlingSnow353) ([GitHub Repo](https://github.com/RattlingSnow353/Snow-s-Mods))
 
+- Snoreville Turbulent Jokers by [Snorevuvlle](https://github.com/Snoresville) ([GitHub Repo](https://github.com/Snoresville/snoresville_turbulent_jokers/))
+
 - SpicyJokers by [RitchieDimaria](https://github.com/RitchieDimaria) ([GitHub Repo](https://github.com/RitchieDimaria/SpicyJokers))
 
 - Steamodded by [Steamopollys](https://github.com/Steamopollys) ([GitHub Repo](https://github.com/Steamopollys/Steamodded))
