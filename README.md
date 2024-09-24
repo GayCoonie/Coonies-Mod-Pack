@@ -40,7 +40,11 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - JankJonklers by [spikeof2010](https://github.com/spikeof2010) ([GitHub Repo](https://github.com/spikeof2010/JankJonklers))
 
+- JimbosPack by [art-muncher](https://github.com/art-muncher) ([GitHub Repo](https://github.com/art-muncher/Jimbo-s-Pack/))
+
 - JokerSellValue by [OppositeWolf770](https://github.com/OppositeWolf770) ([GitHub Repo](https://github.com/OppositeWolf770/JokerSellValue))
+
+- kcvanilla by [kcgidw](https://github.com/kcgidw) ([GitHub Repo](https://github.com/kcgidw/kcvanilla))
 
 - Loop by [jenwalter666](https://github.com/jenwalter666) ([GitHub Repo](https://github.com/jenwalter666/JensBalatroCollection))
 
@@ -90,7 +94,7 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - Virtues by [someone23832](https://github.com/someone23832) ([GitHub Repo](https://github.com/someone23832/Virtues))
 
-- kcvanilla by [kcgidw](https://github.com/kcgidw) ([GitHub Repo](https://github.com/kcgidw/kcvanilla))
+- yosbr-balatro by [WilsontheWolf](https://github.com/WilsontheWolf) ([GitHub Repo](https://github.com/WilsontheWolf/yosbr-balatro))
 
 ## Changes made to the mods:
 - Betmmma-Mods: Removed abilities mod. Just not to my taste, and this mod pack is designed gto reflect my exact balatro setup.
