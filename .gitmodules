@@ -114,3 +114,6 @@
 [submodule "Mods/Ceres"]
 	path = Mods/Ceres
 	url = https://github.com/nekojoe/Ceres
+[submodule "Mods/JimbosPack"]
+	path = Mods/JimbosPack
+	url = https://github.com/art-muncher/Jimbo-s-Pack
