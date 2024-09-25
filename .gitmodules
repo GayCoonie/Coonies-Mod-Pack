@@ -117,3 +117,6 @@
 [submodule "Mods/JimbosPack"]
 	path = Mods/JimbosPack
 	url = https://github.com/art-muncher/Jimbo-s-Pack
+[submodule "Mods/PampaJokerPack"]
+	path = Mods/PampaJokerPack
+	url = https://github.com/Dimserene/PampaJokerPack
