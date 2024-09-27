@@ -1,0 +1,6 @@
+return {
+	["Colour Pack Music"] = false,
+	["Jokers"] = true,
+	["Colour Cards"] = false,
+	["Achievements"] = true,
+}
