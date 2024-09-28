@@ -62,9 +62,6 @@
 [submodule "Virtues"]
 	path = Mods/Virtues
 	url = https://github.com/someone23832/Virtues
-[submodule "Bettma-Mods"]
-	path = Mods/Bettma-Mods
-	url = https://github.com/GayCoonie/Betmma-Mods
 [submodule "SDM0-s-Stuff"]
 	url = https://github.com/SDM0/SDM_0-s-Stuff
 [submodule "./SDM0-s-Stuff"]
@@ -120,3 +117,6 @@
 [submodule "Mods/PampaJokerPack"]
 	path = Mods/PampaJokerPack
 	url = https://github.com/Dimserene/PampaJokerPack
+[submodule "Mods/Betmma-Mods"]
+	path = Mods/Betmma-Mods
+	url = https://github.com/GayCoonie/Betmma-Mods
