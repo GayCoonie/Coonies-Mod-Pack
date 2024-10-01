@@ -114,13 +114,7 @@
 [submodule "Mods/JimbosPack"]
 	path = Mods/JimbosPack
 	url = https://github.com/art-muncher/Jimbo-s-Pack
-[submodule "Mods/PampaJokerPack"]
-	path = Mods/PampaJokerPack
-	url = https://github.com/Dimserene/PampaJokerPack
-[submodule "Mods/Betmma-Mods"]
-	path = Mods/Betmma-Mods
-	url = https://github.com/GayCoonie/Betmma-Mods
-[submodule "./Mods/Betmma-Mods"]
+[submodule "/Mods/Betmma-Mods"]
 	url = https://github.com/betmma/my_balatro_mods
-[submodule "./Mods/PampaJokerPack"]
+[submodule "/Mods/PampaJokerPack"]
 	url = https://github.com/lshtech/balatro-pampa-joker-pack
