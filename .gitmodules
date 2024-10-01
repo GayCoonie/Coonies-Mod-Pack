@@ -120,3 +120,7 @@
 [submodule "Mods/Betmma-Mods"]
 	path = Mods/Betmma-Mods
 	url = https://github.com/GayCoonie/Betmma-Mods
+[submodule "./Mods/Betmma-Mods"]
+	url = https://github.com/betmma/my_balatro_mods
+[submodule "./Mods/PampaJokerPack"]
+	url = https://github.com/lshtech/balatro-pampa-joker-pack
