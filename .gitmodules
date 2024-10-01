@@ -120,3 +120,6 @@
 [submodule "Mods/LushMod"]
 	path = Mods/LushMod
 	url = https://github.com/lshtech/LushMod
+[submodule "Mods/CheesyJokers"]
+	path = Mods/CheesyJokers
+	url = https://github.com/GayCoonie/CheesyJokers
