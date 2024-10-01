@@ -10,9 +10,6 @@
 [submodule "Bunco"]
 	path = Mods/Bunco
 	url = https://github.com/Firch/Bunco
-[submodule "CheesyJokers"]
-	path = Mods/CheesyJokers
-	url = https://github.com/ilikecheese0/CheesyJokers
 [submodule "DebugPlus"]
 	path = Mods/DebugPlus
 	url = https://github.com/Dimserene/DebugPlus/
