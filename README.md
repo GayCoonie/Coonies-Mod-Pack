@@ -66,9 +66,11 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - Nopeus by [jenwalter666](https://github.com/jenwalter666) ([GitHub Repo](https://github.com/jenwalter666/JensBalatroCollection))
 
+- LushMod (1.0 port) by [lusciousdev](https://github.com/lusciousdev) and [Ishtech](https://github.com/lshtech) ([GitHub Repo](https://github.com/lshtech/LushMod))
+
 - Ortalab-DEMO by [GauntletGames-2086](https://github.com/GauntletGames-2086) ([GitHub Repo](https://github.com/GauntletGames-2086/Ortalab-DEMO))
 
-- Pampa Joker Pack by [batabata3](https://github.com/batabata3) ([GitHub Repo](https://github.com/batabata3/balatro-pampa-joker-pack))
+- Pampa Joker Pack (1.0 port) by [batabata3](https://github.com/batabata3) and [Ishtech](https://github.com/lshtech) ([GitHub Repo](https://github.com/lshtech/balatro-pampa-joker-pack))
 
 - Paperback by [GitNether](https://github.com/GitNether) ([GitHub Repo](https://github.com/GitNether/paperback))
 
