@@ -120,3 +120,6 @@
 [submodule "/Mods/PampaJokerPack"]
     path = Mods/PampaJokerPack
 	url = https://github.com/lshtech/balatro-pampa-joker-pack
+[submodule "Mods/LushMod"]
+	path = Mods/LushMod
+	url = https://github.com/lshtech/LushMod
