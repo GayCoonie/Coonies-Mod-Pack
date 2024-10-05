@@ -18,6 +18,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - Bird-Jokers by [JustinBanzon](https://github.com/JustinBanzon) ([GitHub Repo](https://github.com/JustinBanzon/Bird-Jokers))
 
+- BossJokers by [KilledByLava](https://github.com/KilledByLava) ([GitHub Repo](https://github.com/KilledByLava/BossJokers))
+
 - Bunco by [Firch](https://github.com/Firch) ([GitHub Repo](https://github.com/Firch/Bunco))
 
 - CardSleeves by [larswijn](https://github.com/larswijn) ([GitHub Repo](https://github.com/larswijn/CardSleeves))
