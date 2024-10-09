@@ -20,6 +20,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - BossJokers by [KilledByLava](https://github.com/KilledByLava) ([GitHub Repo](https://github.com/KilledByLava/BossJokers))
 
+- Buffoonery by [inkmaggit-hub](https://github.com/pinkmaggit-hub) ([GitHub Repo](https://github.com/pinkmaggit-hub/Buffoonery))
+
 - Bunco by [Firch](https://github.com/Firch) ([GitHub Repo](https://github.com/Firch/Bunco))
 
 - CardSleeves by [larswijn](https://github.com/larswijn) ([GitHub Repo](https://github.com/larswijn/CardSleeves))
@@ -33,6 +35,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 - DebugPlus by [WilsontheWolf](https://github.com/WilsontheWolf) ([GitHub Repo](https://github.com/Dimserene/DebugPlus))
 
 - DeFused by [GayCoonie](https://github.com/GayCoonie) ([GitHub Repo](https://github.com/GayCoonie/DeFused))
+
+- Enhanced Enhancements by [LunaAstraCassiopeia](https://github.com/LunaAstraCassiopeia) ([GitHub Repo]((https://github.com/LunaAstraCassiopeia/LunasBalatroMods))
 
 - Familiar by [RattlingSnow353](https://github.com/RattlingSnow353) ([GitHub Repo](https://github.com/RattlingSnow353/Familiar))
 
@@ -75,6 +79,8 @@ Some of the mods included in this pack have modifications, which are listed belo
 - Pampa Joker Pack (1.0 port) by [batabata3](https://github.com/batabata3) and [Ishtech](https://github.com/lshtech) ([GitHub Repo](https://github.com/lshtech/balatro-pampa-joker-pack))
 
 - Paperback by [GitNether](https://github.com/GitNether) ([GitHub Repo](https://github.com/GitNether/paperback))
+
+- Reverie by [dvrp0](https://github.com/dvrp0) ([GitHub Repo](https://github.com/dvrp0/reverie))
 
 - SDM0-s-Stuff by [SDM0](https://github.com/SDM0) ([GitHub Repo](https://github.com/SDM0/SDM_0-s-Stuff))
 
