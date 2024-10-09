@@ -126,3 +126,9 @@
 [submodule "Mods/BossJokers"]
 	path = Mods/BossJokers
 	url = https://github.com/KilledByLava/BossJokers
+[submodule "Mods/Reverie"]
+	path = Mods/Reverie
+	url = https://github.com/dvrp0/reverie
+[submodule "Mods/Buffoonery"]
+	path = Mods/Buffoonery
+	url = https://github.com/pinkmaggit-hub/Buffoonery
