@@ -36,7 +36,7 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - DeFused by [GayCoonie](https://github.com/GayCoonie) ([GitHub Repo](https://github.com/GayCoonie/DeFused))
 
-- Enhanced Enhancements by [LunaAstraCassiopeia](https://github.com/LunaAstraCassiopeia) ([GitHub Repo]((https://github.com/LunaAstraCassiopeia/LunasBalatroMods))
+- Enhanced Enhancements by [LunaAstraCassiopeia](https://github.com/LunaAstraCassiopeia) ([GitHub Repo](https://github.com/LunaAstraCassiopeia/LunasBalatroMods))
 
 - Familiar by [RattlingSnow353](https://github.com/RattlingSnow353) ([GitHub Repo](https://github.com/RattlingSnow353/Familiar))
 
@@ -94,6 +94,18 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - Taikomochi by [Amvoled](https://github.com/Amvoled) ([GitHub Repo](https://github.com/Amvoled/Taikomochi))
 
+- Tetrapak by [tetraminus](https://github.com/tetraminus) ([GitHub Repo](https://github.com/tetraminus/Tetrapak))
+
+- DX-Tarots by [JeffVi](https://github.com/JeffVi) ([GitHub Repo](https://github.com/JeffVi/DX-Tarots))
+
+- MOARJokers by [MrSmoothieHuman1](https://github.com/MrSmoothieHuman1) ([GitHub Repo](https://github.com/MrSmoothieHuman1/MOARJokers))
+
+- Risk of Jesters by [dvrp0](https://github.com/dvrp0) ([GitHub Repo](https://github.com/dvrp0/risk-of-jesters))
+
+- CardExporter by [lshtech](https://github.com/lshtech) ([GitHub Repo](https://github.com/lshtech/CardExporter))
+
+- Pokermon by [InertSteak](https://github.com/InertSteak) ([GitHub Repo](https://github.com/InertSteak/Pokermon))
+
 - Tier 3 Vouchers Preview by [XenoCHeart](https://github.com/XenoCHeart) ([GitHub Repo](https://github.com/XenoCHeart/Crimsons-Ultimate-Card-Collection))
 
 - The-World-Ends-With-Jimbo by [parchmentEngineer](https://github.com/parchmentEngineer) ([GitHub Repo](https://github.com/parchmentEngineer/The-World-Ends-With-Jimbo))
@@ -101,13 +113,12 @@ Some of the mods included in this pack have modifications, which are listed belo
 - TheTrickster by [cerloCasa](https://github.com/cerloCasa) ([GitHub Repo](https://github.com/cerloCasa/TheTrickster))
 
 - Trance by [MathIsFun0](https://github.com/MathIsFun0) ([GitHub Repo](https://github.com/MathIsFun0/Trance))
- 
+
 - VanillaExpansion by [nekojoe](https://github.com/nekojoe) ([GitHub Repo](https://github.com/nekojoe/VanillaExpansion))
 
 - Virtues by [someone23832](https://github.com/someone23832) ([GitHub Repo](https://github.com/someone23832/Virtues))
 
 - yosbr-balatro by [WilsontheWolf](https://github.com/WilsontheWolf) ([GitHub Repo](https://github.com/WilsontheWolf/yosbr-balatro))
-
 ## Changes made to the mods:
 - Betmmma-Mods: Removed abilities mod. Just not to my taste, and this mod pack is designed gto reflect my exact balatro setup.
 - MystBlinds: Removed the Bird. Same reason.
