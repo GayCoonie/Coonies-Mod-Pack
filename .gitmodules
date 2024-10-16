@@ -146,3 +146,6 @@
 [submodule "Mods/RiskofJesters - ║╣╗τ║╗"]
 	path = Mods/RiskofJesters - ║╣╗τ║╗
 	url = https://github.com/lshtech/risk-of-jesters
+[submodule "Mods/Tetrapak"]
+	path = Mods/Tetrapak
+	url = https://github.com/GayCoonie/Tetrapak
