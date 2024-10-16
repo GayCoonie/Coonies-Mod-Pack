@@ -1,0 +1,38 @@
+
+[manifest]
+version = "1.0.0"
+dump_lua = true
+priority = 0
+
+[[patches]]
+[patches.pattern]
+target = "functions/UI_definitions.lua"
+pattern = "local forced_tag = nil"
+position = "before"
+payload = '''
+for k, v in ipairs(G.jokers.cards) do
+    local card = v:calculate_joker{
+        store_card_create = true,
+        area = area
+    }
+    
+    if card then
+        return card
+    end
+end
+'''
+match_indent = true
+overwrite = false
+
+
+[[patches]]
+[patches.pattern]
+## holy hell this took a while to figure out
+target = "main.lua"
+pattern = "not c.ending_shop and not c.reroll_shop and not c.selling_card and not c.selling_self and not c.buying_card and"
+position = "after"
+payload = '''
+not c.store_card_create and
+'''
+match_indent = true
+overwrite = false

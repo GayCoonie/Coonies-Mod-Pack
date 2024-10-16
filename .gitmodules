@@ -134,12 +134,6 @@
 [submodule "Mods/Pokermon"]
 	path = Mods/Pokermon
 	url = https://github.com/InertSteak/Pokermon
-[submodule "Mods/Tetrapak"]
-	path = Mods/Tetrapak
-	url = https://github.com/lshtech/Tetrapak
-[submodule "Mods/risk-of-jesters"]
-	path = Mods/risk-of-jesters
-	url = https://github.com/lshtech/risk-of-jesters
 [submodule "Mods/DX-Tarots"]
 	path = Mods/DX-Tarots
 	url = https://github.com/lshtech/DX-Tarots
@@ -149,3 +143,6 @@
 [submodule "Mods/MOARJokers"]
 	path = Mods/MOARJokers
 	url = https://github.com/MrSmoothieHuman1/MOARJokers
+[submodule "Mods/RiskofJesters - ║╣╗τ║╗"]
+	path = Mods/RiskofJesters - ║╣╗τ║╗
+	url = https://github.com/lshtech/risk-of-jesters

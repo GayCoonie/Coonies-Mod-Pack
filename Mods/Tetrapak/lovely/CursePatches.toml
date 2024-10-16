@@ -1,0 +1,31 @@
+[manifest]
+version = "1.0.0"
+dump_lua = true
+priority = 0
+
+[[patches]]
+[patches.pattern]
+target = "functions/UI_definitions.lua"
+pattern = "if AUT.card_type == 'Enhanced' then card_type = localize{type = 'name_text', key = card.config.center.key, set = 'Enhanced'} end"
+position = "before"
+payload = """
+if AUT.card_type == 'Joker' and card.config.center.rarity == (CURSERARITY) then
+    card_type = localize('k_' .. CURSERARITY) 
+end
+"""
+match_indent = true
+
+[[patches]]
+[patches.pattern]
+target = "functions/common_events.lua"
+pattern = "rarity = (_legendary and 4) or (rarity > 0.95 and 3) or (rarity > 0.7 and 2) or 1"
+position = "at"
+payload = '''
+    if type(_rarity) == 'string' then
+        rarity = _rarity
+    else
+        rarity = (_legendary and 4) or (rarity > 0.95 and 3) or (rarity > 0.7 and 2) or 1
+    end
+'''
+match_indent = true
+overwrite = false
