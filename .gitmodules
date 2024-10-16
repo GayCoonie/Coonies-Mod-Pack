@@ -25,9 +25,6 @@
 [submodule "kcvanilla"]
 	path = Mods/kcvanilla
 	url = https://github.com/kcgidw/kcvanilla
-[submodule "MikasBalatro"]
-	path = Mods/MikasBalatro
-	url = https://github.com/Dimserene/MikasBalatro
 [submodule "MoreFluff"]
 	path = Mods/MoreFluff
 	url = https://github.com/notmario/MoreFluff
@@ -40,10 +37,6 @@
 [submodule "MystesOpenJokers"]
 	path = Mods/MystesOpenJokers
 	url = https://github.com/CelestialBoon/MystesOpenJokers
-[submodule "Ortalab-DEMO"]
-	path = Mods/Ortalab-DEMO
-	url = https://github.com/GauntletGames-2086/Ortalab-DEMO/
-	branch = test
 [submodule "Steamodded"]
 	path = Mods/Steamodded
 	url = https://github.com/Steamopollys/Steamodded
@@ -132,3 +125,24 @@
 [submodule "Mods/Buffoonery"]
 	path = Mods/Buffoonery
 	url = https://github.com/pinkmaggit-hub/Buffoonery
+[submodule "Mods/Ortalab-Demo"]
+	path = Mods/Ortalab-Demo
+	url = https://github.com/Eremel/Ortalab-Demo
+[submodule "Mods/MikasBalatro"]
+	path = Mods/MikasBalatro
+	url = https://github.com/lshtech/MikasBalatro
+[submodule "Mods/Pokermon"]
+	path = Mods/Pokermon
+	url = https://github.com/InertSteak/Pokermon
+[submodule "Mods/Tetrapak"]
+	path = Mods/Tetrapak
+	url = https://github.com/lshtech/Tetrapak
+[submodule "mods/MOARJokers"]
+	path = mods/MOARJokers
+	url = https://github.com/MrSmoothieHuman1/MOARJokers
+[submodule "Mods/risk-of-jesters"]
+	path = Mods/risk-of-jesters
+	url = https://github.com/lshtech/risk-of-jesters
+[submodule "Mods/DX-Tarots"]
+	path = Mods/DX-Tarots
+	url = https://github.com/lshtech/DX-Tarots
