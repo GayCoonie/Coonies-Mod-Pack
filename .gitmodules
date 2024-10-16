@@ -137,9 +137,6 @@
 [submodule "Mods/Tetrapak"]
 	path = Mods/Tetrapak
 	url = https://github.com/lshtech/Tetrapak
-[submodule "mods/MOARJokers"]
-	path = mods/MOARJokers
-	url = https://github.com/MrSmoothieHuman1/MOARJokers
 [submodule "Mods/risk-of-jesters"]
 	path = Mods/risk-of-jesters
 	url = https://github.com/lshtech/risk-of-jesters
@@ -149,3 +146,6 @@
 [submodule "Mods/Talisman"]
 	path = Mods/Talisman
 	url = https://github.com/MathIsFun0/Talisman
+[submodule "Mods/MOARJokers"]
+	path = Mods/MOARJokers
+	url = https://github.com/MrSmoothieHuman1/MOARJokers
