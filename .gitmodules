@@ -146,3 +146,6 @@
 [submodule "Mods/DX-Tarots"]
 	path = Mods/DX-Tarots
 	url = https://github.com/lshtech/DX-Tarots
+[submodule "Mods/Talisman"]
+	path = Mods/Talisman
+	url = https://github.com/MathIsFun0/Talisman
