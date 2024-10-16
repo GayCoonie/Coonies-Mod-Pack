@@ -149,3 +149,6 @@
 [submodule "Mods/CardExporter"]
 	path = Mods/CardExporter
 	url = https://github.com/lshtech/CardExporter
+[submodule "Mods/Tetrapak"]
+	path = Mods/Tetrapak
+	url = https://github.com/lshtech/Tetrapak
