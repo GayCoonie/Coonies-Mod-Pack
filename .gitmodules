@@ -149,3 +149,15 @@
 [submodule "Mods/Tetrapak"]
 	path = Mods/Tetrapak
 	url = https://github.com/lshtech/Tetrapak
+[submodule "Mods/MystesOpenJokers"]
+	path = Mods/MystesOpenJokers
+	url = https://github.com/lshtech/MystesOpenJokers
+[submodule "Mods/shananigans-mod"]
+	path = Mods/shananigans-mod
+	url = https://github.com/lshtech/balatro-shenanigans-mod
+[submodule "Mods/KusoMods"]
+	path = Mods/KusoMods
+	url = https://github.com/lshtech/KusoMods
+[submodule "Mods/SylvieSilly"]
+	path = Mods/SylvieSilly
+	url = https://github.com/lshtech/SylvieSilly
