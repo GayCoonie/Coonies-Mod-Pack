@@ -149,6 +149,3 @@
 [submodule "Mods/Tetrapak"]
 	path = Mods/Tetrapak
 	url = https://github.com/lshtech/Tetrapak
-[submodule "Mods/MystesOpenJokers"]
-	path = Mods/MystesOpenJokers
-	url = https://github.com/GayCoonie/MystesOpenJokers
