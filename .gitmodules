@@ -182,3 +182,6 @@
 [submodule "Mods/JamMod"]
 	path = Mods/JamMod
 	url = https://github.com/WilsontheWolf/JamMod
+[submodule "Mods/BalatroOlympus"]
+	path = Mods/BalatroOlympus
+	url = https://github.com/AbhinavR314/BalatroOlympus
