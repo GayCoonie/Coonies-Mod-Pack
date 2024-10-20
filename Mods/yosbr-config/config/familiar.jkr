@@ -1,0 +1,13 @@
+return {
+	["Sacred Cards"] = true,
+	["Jokers"] = true,
+	["Fortune Cards"] = true,
+	["Tags"] = true,
+	["Enhancements"] = true,
+	["Editions"] = true,
+	["Memento Cards"] = true,
+	["Cross Mod"] = true,
+	["Vouchers"] = true,
+	["Seals"] = true,
+	["Decks"] = true,
+}

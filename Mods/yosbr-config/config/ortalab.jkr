@@ -1,0 +1,6 @@
+return {
+	["initial_setup"] = false,
+	["full_credits"] = false,
+	["artist_credits"] = true,
+	["placeholders"] = false,
+}

@@ -1,0 +1,12 @@
+return {
+	["fixed_sprites"] = true,
+	["double_lovers"] = true,
+	["fixed_badges"] = false,
+	["high_quality_shaders"] = true,
+	["gameplay_reworks"] = true,
+	["purist_mode"] = false,
+	["jokerlike_consumable_editions"] = false,
+	["high_contrast"] = true,
+	["colorful_finishers"] = true,
+	["reworked_jokers"] = true,
+}

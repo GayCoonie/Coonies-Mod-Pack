@@ -1,0 +1,15 @@
+return {
+	["tags_enabled"] = true,
+	["blinds_enabled"] = true,
+	["vouchers_enabled"] = true,
+	["challenges_enabled"] = true,
+	["decks_enabled"] = true,
+	["coupons_enabled"] = true,
+	["enhancements_enabled"] = true,
+	["editions_enabled"] = true,
+	["loterias_enabled"] = true,
+	["zodiacs_enabled"] = true,
+	["curses_enabled"] = true,
+	["mythos_enabled"] = true,
+	["jokers_enabled"] = true,
+}

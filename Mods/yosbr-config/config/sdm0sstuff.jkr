@@ -1,0 +1,6 @@
+return {
+	["sdm_consus"] = true,
+	["limit_moon_base"] = true,
+	["sdm_decks"] = true,
+	["sdm_jokers"] = true,
+}

@@ -6,13 +6,13 @@ return {
 		["seals"] = {
 			["enabled"] = true,
 		},
-		["enhancements"] = {
-			["enabled"] = false,
-		},
 		["perks"] = {
 			["enabled"] = false,
 		},
 		["enabled"] = true,
+		["enhancements"] = {
+			["enabled"] = false,
+		},
 	},
 	["consumables"] = {
 		["consumable_ex"] = {
@@ -27,10 +27,10 @@ return {
 		},
 	},
 	["misc"] = {
-		["unlock_all"] = {
+		["discover_all"] = {
 			["enabled"] = true,
 		},
-		["discover_all"] = {
+		["unlock_all"] = {
 			["enabled"] = true,
 		},
 		["useless_jokers"] = {

@@ -1,0 +1,8 @@
+return {
+	["pokemon_only"] = false,
+	["pokeballs"] = true,
+	["jokers_only"] = true,
+	["unlimited_energy"] = false,
+	["no_evos"] = true,
+	["pokemon_num"] = true,
+}
