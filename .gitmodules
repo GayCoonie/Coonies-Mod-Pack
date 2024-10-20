@@ -161,3 +161,21 @@
 [submodule "Mods/SylvieSilly"]
 	path = Mods/SylvieSilly
 	url = https://github.com/lshtech/SylvieSilly
+[submodule "Mods/SevenDeadlySins"]
+	path = Mods/SevenDeadlySins
+	url = https://github.com/lshtech/sevendeadlysins
+[submodule "Mods/ModPackFixes"]
+	path = Mods/ModPackFixes
+	url = https://github.com/lshtech/ModPackFixes
+[submodule "Mods/The-Buffoon-Pack"]
+	path = Mods/The-Buffoon-Pack
+	url = https://github.com/lshtech/The-Buffoon-Pack
+[submodule "Mods/multi-jokers"]
+	path = Mods/multi-jokers
+	url = https://github.com/lshtech/multi-jokers
+[submodule "Mods/ExtraPlanets"]
+	path = Mods/ExtraPlanets
+	url = https://github.com/lshtech/ExtraPlanets
+[submodule "Mods/Balatro451"]
+	path = Mods/Balatro451
+	url = https://github.com/SM451Modding/Balatro451
