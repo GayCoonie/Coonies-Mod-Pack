@@ -122,7 +122,7 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - Taikomochi by [Amvoled](https://github.com/Amvoled) ([GitHub Repo](https://github.com/Amvoled/Taikomochi))
 
-- Talisman by [MathIsFun0]https://github.com/MathIsFun0) ([GitHub Repo](https://github.com/MathIsFun0/Talisman))
+- Talisman by [MathIsFun0](https://github.com/MathIsFun0) ([GitHub Repo](https://github.com/MathIsFun0/Talisman))
 
 - Tetrapak by [tetraminus](https://github.com/tetraminus) ([GitHub Repo](https://github.com/tetraminus/Tetrapak))
 
