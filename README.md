@@ -10,7 +10,13 @@ Some of the mods included in this pack have modifications, which are listed belo
 ## Included Mods:
 - Alices Annum by [ThreeCubed273](https://github.com/ThreeCubed273) ([GitHub Repo](https://github.com/ThreeCubed273/alices_annum_balatro_mod))
 
+- Balatro 451 by [SM451Modding](https://github.com/SM451Modding) ([GitHub Repo](https://github.com/SM451Modding/Balatro451))
+
 - Balatro Jokers Plus by [KaviD-115](https://github.com/KaviD-115) ([GitHub Repo](https://github.com/KaviD-115/Balatro-Jokers-Plus))
+
+- Balatro Olympus by [AbhinavR314](https://github.com/AbhinavR314) ([GitHub Repo](https://github.com/AbhinavR314/BalatroOlympus))
+
+- Balatro Shenanigans Mod by [lshtech](https://github.com/lshtech) ([GitHub Repo](https://github.com/lshtech/balatro-shenanigans-mod)
 
 - BBBalatro by [BBBalatroMod](https://github.com/BBBalatroMod) ([GitHub Repo](https://github.com/BBBalatroMod/BBBalatro))
 
@@ -20,9 +26,11 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - BossJokers by [KilledByLava](https://github.com/KilledByLava) ([GitHub Repo](https://github.com/KilledByLava/BossJokers))
 
-- Buffoonery by [inkmaggit-hub](https://github.com/pinkmaggit-hub) ([GitHub Repo](https://github.com/pinkmaggit-hub/Buffoonery))
+- Buffoonery by [pinkmaggit-hub](https://github.com/pinkmaggit-hub) ([GitHub Repo](https://github.com/pinkmaggit-hub/Buffoonery))
 
 - Bunco by [Firch](https://github.com/Firch) ([GitHub Repo](https://github.com/Firch/Bunco))
+
+- CardExporter by [lshtech](https://github.com/lshtech) ([GitHub Repo](https://github.com/lshtech/CardExporter))
 
 - CardSleeves by [larswijn](https://github.com/larswijn) ([GitHub Repo](https://github.com/larswijn/CardSleeves))
 
@@ -44,6 +52,10 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - Galdur by [Eremel](https://github.com/Eremel) ([GitHub Repo](https://github.com/Eremel/Galdur))
 
+- Golds-Cards (port) by [lshtech](https://github.com/lshtech) ([GitHub Repo](https://github.com/lshtech/Golds-Cards))
+
+- JamMod by [WilsontheWolf](https://github.com/WilsontheWolf) ([GitHub Repo](https://github.com/WilsontheWolf/JamMod))
+
 - JankJonklers by [spikeof2010](https://github.com/spikeof2010) ([GitHub Repo](https://github.com/spikeof2010/JankJonklers))
 
 - JimbosPack by [art-muncher](https://github.com/art-muncher) ([GitHub Repo](https://github.com/art-muncher/Jimbo-s-Pack/))
@@ -52,17 +64,25 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - kcvanilla by [kcgidw](https://github.com/kcgidw) ([GitHub Repo](https://github.com/kcgidw/kcvanilla))
 
+- KusoMods by [lshtech](https://github.com/lshtech) ([GitHub Repo](https://github.com/lshtech/KusoMods))
+
 - Loop by [jenwalter666](https://github.com/jenwalter666) ([GitHub Repo](https://github.com/jenwalter666/JensBalatroCollection))
 
 - LushMod (1.0 port) by [lusciousdev](https://github.com/lusciousdev) and [Ishtech](https://github.com/lshtech) ([GitHub Repo](https://github.com/lshtech/LushMod))
 
 - MikasBalatro by [MikaSchoenmakers](https://github.com/MikaSchoenmakers) ([GitHub Repo](https://github.com/Dimserene/MikasBalatro))
 
+- MOARJokers by [MrSmoothieHuman1](https://github.com/MrSmoothieHuman1] ([GitHub Repo](https://github.com/MrSmoothieHuman1/MOARJokers))
+
 - Modded-Only-Challenges by [SDM0](https://github.com/SDM0) ([GitHub Repo](https://github.com/SDM0/Modded-Only-Challenges))
+
+- ModPackFixes by [lshtech](https://github.com/lshtech) ([GitHub Repo](https://github.com/lshtech/ModPackFixes))
 
 - MoreFluff by [notmario](https://github.com/notmario) ([GitHub Repo](https://github.com/notmario/MoreFluff))
 
 - MoreJokerPacks by [Samario1](https://github.com/Samario1) ([GitHub Repo](https://github.com/Samario1/MoreJokerPacks))
+
+- multi-jokers by [lshtech](https://github.com/lshtech) ([GitHub Repo](https://github.com/lshtech/multi-jokers))
 
 - MystBlinds by [Mysthaps](https://github.com/Mysthaps) ([GitHub Repo](https://github.com/GayCoonie/MystBlinds))
 
@@ -80,37 +100,41 @@ Some of the mods included in this pack have modifications, which are listed belo
 
 - Paperback by [GitNether](https://github.com/GitNether) ([GitHub Repo](https://github.com/GitNether/paperback))
 
+- Pokermon by [InertSteak](https://github.com/InertSteak) https://github.com/InertSteak/Pokermon))
+
 - Reverie by [dvrp0](https://github.com/dvrp0) ([GitHub Repo](https://github.com/dvrp0/reverie))
+
+- Risk of Jesters by [dvrp0](https://github.com/dvrp0) ([GitHub Repo](https://github.com/dvrp0/risk-of-jesters))
 
 - SDM0-s-Stuff by [SDM0](https://github.com/SDM0) ([GitHub Repo](https://github.com/SDM0/SDM_0-s-Stuff))
 
-- Snow's Mods by [RattlingSnow353](https://github.com/RattlingSnow353) ([GitHub Repo](https://github.com/RattlingSnow353/Snow-s-Mods))
+- Seven Deadly Sins by [lshtech](https://github.com/lshtech) ([GitHub Repo](https://github.com/lshtech/sevendeadlysins))
 
 - Snoresville Turbulent Jokers by [Snorevsille](https://github.com/Snoresville) ([GitHub Repo](https://github.com/Snoresville/snoresville_turbulent_jokers/))
+
+- Snow's Mods by [RattlingSnow353](https://github.com/RattlingSnow353) ([GitHub Repo](https://github.com/RattlingSnow353/Snow-s-Mods))
 
 - SpicyJokers by [RitchieDimaria](https://github.com/RitchieDimaria) ([GitHub Repo](https://github.com/RitchieDimaria/SpicyJokers))
 
 - Steamodded by [Steamopollys](https://github.com/Steamopollys) ([GitHub Repo](https://github.com/Steamopollys/Steamodded))
 
+- SylvieSilly by [lshtech](https://github.com/lshtech) ([GitHub Repo](https://github.com/lshtech/SylvieSilly))
+
 - Taikomochi by [Amvoled](https://github.com/Amvoled) ([GitHub Repo](https://github.com/Amvoled/Taikomochi))
+
+- Talisman by [MathIsFun0]https://github.com/MathIsFun0) ([GitHub Repo](https://github.com/MathIsFun0/Talisman))
 
 - Tetrapak by [tetraminus](https://github.com/tetraminus) ([GitHub Repo](https://github.com/tetraminus/Tetrapak))
 
+- The Buffoon Pack by [lshtech](https://github.com/lshtech) ([GitHub Repo](https://github.com/lshtech/The-Buffoon-Pack))
+
 - DX-Tarots by [JeffVi](https://github.com/JeffVi) ([GitHub Repo](https://github.com/JeffVi/DX-Tarots))
-
-- MOARJokers by [MrSmoothieHuman1](https://github.com/MrSmoothieHuman1) ([GitHub Repo](https://github.com/MrSmoothieHuman1/MOARJokers))
-
-- Risk of Jesters by [dvrp0](https://github.com/dvrp0) ([GitHub Repo](https://github.com/dvrp0/risk-of-jesters))
-
-- CardExporter by [lshtech](https://github.com/lshtech) ([GitHub Repo](https://github.com/lshtech/CardExporter))
-
-- Pokermon by [InertSteak](https://github.com/InertSteak) ([GitHub Repo](https://github.com/InertSteak/Pokermon))
-
-- Tier 3 Vouchers Preview by [XenoCHeart](https://github.com/XenoCHeart) ([GitHub Repo](https://github.com/XenoCHeart/Crimsons-Ultimate-Card-Collection))
 
 - The-World-Ends-With-Jimbo by [parchmentEngineer](https://github.com/parchmentEngineer) ([GitHub Repo](https://github.com/parchmentEngineer/The-World-Ends-With-Jimbo))
 
 - TheTrickster by [cerloCasa](https://github.com/cerloCasa) ([GitHub Repo](https://github.com/cerloCasa/TheTrickster))
+
+- Tier 3 Vouchers Preview by [XenoCHeart](https://github.com/XenoCHeart) ([GitHub Repo](https://github.com/XenoCHeart/Crimsons-Ultimate-Card-Collection))
 
 - Trance by [MathIsFun0](https://github.com/MathIsFun0) ([GitHub Repo](https://github.com/MathIsFun0/Trance))
 
