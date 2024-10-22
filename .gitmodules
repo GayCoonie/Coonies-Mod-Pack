@@ -110,9 +110,6 @@
 [submodule "Mods/LushMod"]
 	path = Mods/LushMod
 	url = https://github.com/lshtech/LushMod
-[submodule "Mods/CheesyJokers"]
-	path = Mods/CheesyJokers
-	url = https://github.com/GayCoonie/CheesyJokers
 [submodule "Mods/BossJokers"]
 	path = Mods/BossJokers
 	url = https://github.com/KilledByLava/BossJokers
@@ -188,3 +185,6 @@
 [submodule "Mods/BalatroOlympus"]
 	path = Mods/BalatroOlympus
 	url = https://github.com/lshtech/BalatroOlympus
+[submodule "Mods/CheesyJokers"]
+	path = Mods/CheesyJokers
+	url = https://github.com/lshtech/CheesyJokers
