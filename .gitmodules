@@ -188,3 +188,6 @@
 [submodule "Mods/CheesyJokers"]
 	path = Mods/CheesyJokers
 	url = https://github.com/lshtech/CheesyJokers
+[submodule "Mods/Balatro-CommunityPack"]
+	path = Mods/Balatro-CommunityPack
+	url = https://github.com/lshtech/Balatro-CommunityPack
