@@ -191,3 +191,6 @@
 [submodule "Mods/Balatro-CommunityPack"]
 	path = Mods/Balatro-CommunityPack
 	url = https://github.com/lshtech/Balatro-CommunityPack
+[submodule "Mods/DreadJokers"]
+	path = Mods/DreadJokers
+	url = https://github.com/LunaAstraCassiopeia/DreadJokers
