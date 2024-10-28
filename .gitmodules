@@ -128,9 +128,6 @@
 [submodule "Mods/Pokermon"]
 	path = Mods/Pokermon
 	url = https://github.com/InertSteak/Pokermon
-[submodule "Mods/DX-Tarots"]
-	path = Mods/DX-Tarots
-	url = https://github.com/lshtech/DX-Tarots
 [submodule "Mods/Talisman"]
 	path = Mods/Talisman
 	url = https://github.com/MathIsFun0/Talisman
