@@ -194,3 +194,6 @@
 [submodule "Mods/arachnei-balamod"]
 	path = Mods/arachnei-balamod
 	url = https://github.com/lshtech/arachnei-balamod
+[submodule "Mods/DX-Tarots"]
+	path = Mods/DX-Tarots
+	url = https://github.com/JeffVi/DX-Tarots/
