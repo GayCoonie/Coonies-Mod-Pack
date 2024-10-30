@@ -197,3 +197,12 @@
 [submodule "Mods/DX-Tarots"]
 	path = Mods/DX-Tarots
 	url = https://github.com/JeffVi/DX-Tarots/
+[submodule "Mods/Malwerk"]
+	path = Mods/Malwerk
+	url = https://github.com/Eremel/Malverk
+[submodule "Mods/EnhancedEnhancements"]
+	path = Mods/EnhancedEnhancements
+	url = https://github.com/Eremel/Luna-s-Enhancements
+[submodule "Mods/Moonspell-Cards"]
+	path = Mods/Moonspell-Cards
+	url = https://github.com/Eremel/Moonspell-Cards
