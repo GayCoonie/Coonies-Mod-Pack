@@ -206,3 +206,6 @@
 [submodule "Mods/Moonspell-Cards"]
 	path = Mods/Moonspell-Cards
 	url = https://github.com/Eremel/Moonspell-Cards
+[submodule "Mods/MarvelUniverse"]
+	path = Mods/MarvelUniverse
+	url = https://github.com/Eremel/MarvelUniverse
