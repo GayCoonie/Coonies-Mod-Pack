@@ -209,3 +209,6 @@
 [submodule "Mods/MarvelUniverse"]
 	path = Mods/MarvelUniverse
 	url = https://github.com/Eremel/MarvelUniverse
+[submodule "Mods/Multipack"]
+	path = Mods/Multipack
+	url = https://github.com/snowylight/Multipack/
