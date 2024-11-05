@@ -95,9 +95,6 @@
 	path = Mods/snoresville_turbulent_jokers
 	url = https://github.com/Snoresville/snoresville_turbulent_jokers
 	branch = release
-[submodule "Mods/Ceres"]
-	path = Mods/Ceres
-	url = https://github.com/nekojoe/Ceres
 [submodule "Mods/JimbosPack"]
 	path = Mods/JimbosPack
 	url = https://github.com/art-muncher/Jimbo-s-Pack
@@ -212,3 +209,6 @@
 [submodule "Mods/Multipack"]
 	path = Mods/Multipack
 	url = https://github.com/snowylight/Multipack/
+[submodule "Mods/Ceres"]
+	path = Mods/Ceres
+	url = https://github.com/lshtech/Ceres
