@@ -1,0 +1,4 @@
+return {
+	["separate_joker_loading"] = true,
+	["alter_vanilla_jokers"] = false,
+}

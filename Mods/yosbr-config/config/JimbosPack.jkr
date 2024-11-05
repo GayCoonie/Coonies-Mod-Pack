@@ -1,6 +1,6 @@
 return {
-	["Special Spectrals"] = true,
+	["Special Spectrals"] = false,
 	["Jokers"] = true,
-	["Boss Blinds"] = false,
 	["Curses"] = false,
+	["Boss Blinds"] = false,
 }

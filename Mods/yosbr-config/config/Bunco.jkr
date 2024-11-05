@@ -1,9 +1,9 @@
 return {
-	["fixed_sprites"] = true,
+	["fixed_sprites"] = false,
 	["double_lovers"] = true,
 	["fixed_badges"] = false,
 	["high_quality_shaders"] = true,
-	["gameplay_reworks"] = true,
+	["gameplay_reworks"] = false,
 	["purist_mode"] = false,
 	["jokerlike_consumable_editions"] = false,
 	["high_contrast"] = true,

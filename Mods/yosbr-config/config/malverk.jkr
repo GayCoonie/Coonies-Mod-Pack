@@ -1,0 +1,7 @@
+return {
+	["selected"] = {
+		"texpack_marvel_universe",
+		"texpack_moonspell_moonspell",
+		"texpack_luna_lunas_enhancements",
+	},
+}

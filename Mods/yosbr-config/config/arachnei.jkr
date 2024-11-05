@@ -1,0 +1,12 @@
+return {
+	["bezos"] = true,
+	["coupon_book"] = true,
+	["fortune"] = false,
+	["tag_reroll"] = true,
+	["humanity"] = true,
+	["hobby_shop"] = true,
+	["sols"] = true,
+	["jokers"] = true,
+	["ganymede"] = true,
+	["jonkler"] = true,
+}

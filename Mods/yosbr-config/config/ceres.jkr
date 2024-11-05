@@ -6,13 +6,13 @@ return {
 		["seals"] = {
 			["enabled"] = true,
 		},
+		["enhancements"] = {
+			["enabled"] = false,
+		},
 		["perks"] = {
 			["enabled"] = false,
 		},
 		["enabled"] = true,
-		["enhancements"] = {
-			["enabled"] = false,
-		},
 	},
 	["consumables"] = {
 		["consumable_ex"] = {
