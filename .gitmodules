@@ -212,3 +212,6 @@
 [submodule "Mods/Ceres"]
 	path = Mods/Ceres
 	url = https://github.com/lshtech/Ceres
+[submodule "Mods/NumBalatro"]
+	path = Mods/NumBalatro
+	url = https://github.com/Numbuh214/NumBalatro
