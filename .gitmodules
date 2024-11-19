@@ -215,3 +215,9 @@
 [submodule "Mods/NumBalatro"]
 	path = Mods/NumBalatro
 	url = https://github.com/Numbuh214/NumBalatro
+[submodule "Mods/circus"]
+	path = Mods/circus
+	url = https://github.com/jrings/circus
+[submodule "Mods/Item-Remover"]
+	path = Mods/Item-Remover
+	url = https://github.com/art-muncher/Item-Remover
