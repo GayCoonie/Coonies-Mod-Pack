@@ -110,9 +110,6 @@
 [submodule "Mods/BossJokers"]
 	path = Mods/BossJokers
 	url = https://github.com/KilledByLava/BossJokers
-[submodule "Mods/Reverie"]
-	path = Mods/Reverie
-	url = https://github.com/dvrp0/reverie
 [submodule "Mods/Buffoonery"]
 	path = Mods/Buffoonery
 	url = https://github.com/pinkmaggit-hub/Buffoonery
@@ -185,9 +182,6 @@
 [submodule "Mods/Balatro-CommunityPack"]
 	path = Mods/Balatro-CommunityPack
 	url = https://github.com/lshtech/Balatro-CommunityPack
-[submodule "Mods/DreadJokers"]
-	path = Mods/DreadJokers
-	url = https://github.com/LunaAstraCassiopeia/DreadJokers
 [submodule "Mods/arachnei-balamod"]
 	path = Mods/arachnei-balamod
 	url = https://github.com/lshtech/arachnei-balamod
